@@ -1,3 +1,5 @@
+# Forked from Nvidia/DeepLearningExamples and modified for training FinBERT.
+
 # NVIDIA Deep Learning Examples for Volta Tensor Cores
 
 ## Introduction
